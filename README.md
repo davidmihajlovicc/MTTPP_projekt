@@ -1,11 +1,11 @@
 # Selenium Framework (Lab)
 
 Automatsko testiranje web aplikacije https://the-internet.herokuapp.com koristeći:
-- Java 17 + Maven
+- Java 23 + Maven
 - Selenium WebDriver
 - JUnit 5
 - Page Object Model (POM)
-- WebDriverWait (explicit waits)
+- WebDriverWait 
 - WebDriverManager
 - Cross-browser (Chrome/Firefox)
 - GitHub Actions CI
